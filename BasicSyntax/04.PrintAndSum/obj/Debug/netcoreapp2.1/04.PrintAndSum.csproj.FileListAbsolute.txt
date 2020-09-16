@@ -1,0 +1,10 @@
+C:\Users\Predator\source\repos\ForCycles\04.PrintAndSum\bin\Debug\netcoreapp2.1\04.PrintAndSum.deps.json
+C:\Users\Predator\source\repos\ForCycles\04.PrintAndSum\bin\Debug\netcoreapp2.1\04.PrintAndSum.runtimeconfig.json
+C:\Users\Predator\source\repos\ForCycles\04.PrintAndSum\bin\Debug\netcoreapp2.1\04.PrintAndSum.runtimeconfig.dev.json
+C:\Users\Predator\source\repos\ForCycles\04.PrintAndSum\bin\Debug\netcoreapp2.1\04.PrintAndSum.dll
+C:\Users\Predator\source\repos\ForCycles\04.PrintAndSum\bin\Debug\netcoreapp2.1\04.PrintAndSum.pdb
+C:\Users\Predator\source\repos\ForCycles\04.PrintAndSum\obj\Debug\netcoreapp2.1\04.PrintAndSum.csproj.CoreCompileInputs.cache
+C:\Users\Predator\source\repos\ForCycles\04.PrintAndSum\obj\Debug\netcoreapp2.1\04.PrintAndSum.AssemblyInfoInputs.cache
+C:\Users\Predator\source\repos\ForCycles\04.PrintAndSum\obj\Debug\netcoreapp2.1\04.PrintAndSum.AssemblyInfo.cs
+C:\Users\Predator\source\repos\ForCycles\04.PrintAndSum\obj\Debug\netcoreapp2.1\04.PrintAndSum.dll
+C:\Users\Predator\source\repos\ForCycles\04.PrintAndSum\obj\Debug\netcoreapp2.1\04.PrintAndSum.pdb

@@ -1,0 +1,11 @@
+C:\Users\Predator\source\repos\ForCycles\Textadventure\bin\Debug\netcoreapp2.1\Textadventure.deps.json
+C:\Users\Predator\source\repos\ForCycles\Textadventure\bin\Debug\netcoreapp2.1\Textadventure.runtimeconfig.json
+C:\Users\Predator\source\repos\ForCycles\Textadventure\bin\Debug\netcoreapp2.1\Textadventure.runtimeconfig.dev.json
+C:\Users\Predator\source\repos\ForCycles\Textadventure\bin\Debug\netcoreapp2.1\Textadventure.dll
+C:\Users\Predator\source\repos\ForCycles\Textadventure\bin\Debug\netcoreapp2.1\Textadventure.pdb
+C:\Users\Predator\source\repos\ForCycles\Textadventure\obj\Debug\netcoreapp2.1\Textadventure.csprojAssemblyReference.cache
+C:\Users\Predator\source\repos\ForCycles\Textadventure\obj\Debug\netcoreapp2.1\Textadventure.csproj.CoreCompileInputs.cache
+C:\Users\Predator\source\repos\ForCycles\Textadventure\obj\Debug\netcoreapp2.1\Textadventure.AssemblyInfoInputs.cache
+C:\Users\Predator\source\repos\ForCycles\Textadventure\obj\Debug\netcoreapp2.1\Textadventure.AssemblyInfo.cs
+C:\Users\Predator\source\repos\ForCycles\Textadventure\obj\Debug\netcoreapp2.1\Textadventure.dll
+C:\Users\Predator\source\repos\ForCycles\Textadventure\obj\Debug\netcoreapp2.1\Textadventure.pdb

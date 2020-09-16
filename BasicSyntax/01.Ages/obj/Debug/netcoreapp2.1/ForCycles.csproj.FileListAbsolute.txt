@@ -1,0 +1,11 @@
+C:\Users\Predator\source\repos\ForCycles\ForCycles\bin\Debug\netcoreapp2.1\ForCycles.deps.json
+C:\Users\Predator\source\repos\ForCycles\ForCycles\bin\Debug\netcoreapp2.1\ForCycles.runtimeconfig.json
+C:\Users\Predator\source\repos\ForCycles\ForCycles\bin\Debug\netcoreapp2.1\ForCycles.runtimeconfig.dev.json
+C:\Users\Predator\source\repos\ForCycles\ForCycles\bin\Debug\netcoreapp2.1\ForCycles.dll
+C:\Users\Predator\source\repos\ForCycles\ForCycles\bin\Debug\netcoreapp2.1\ForCycles.pdb
+C:\Users\Predator\source\repos\ForCycles\ForCycles\obj\Debug\netcoreapp2.1\ForCycles.csproj.CoreCompileInputs.cache
+C:\Users\Predator\source\repos\ForCycles\ForCycles\obj\Debug\netcoreapp2.1\ForCycles.AssemblyInfoInputs.cache
+C:\Users\Predator\source\repos\ForCycles\ForCycles\obj\Debug\netcoreapp2.1\ForCycles.AssemblyInfo.cs
+C:\Users\Predator\source\repos\ForCycles\ForCycles\obj\Debug\netcoreapp2.1\ForCycles.dll
+C:\Users\Predator\source\repos\ForCycles\ForCycles\obj\Debug\netcoreapp2.1\ForCycles.pdb
+C:\Users\Predator\source\repos\ForCycles\ForCycles\obj\Debug\netcoreapp2.1\ForCycles.csprojAssemblyReference.cache

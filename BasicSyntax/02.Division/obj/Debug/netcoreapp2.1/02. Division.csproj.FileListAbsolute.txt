@@ -1,0 +1,11 @@
+C:\Users\Predator\source\repos\ForCycles\ConsoleApp1\bin\Debug\netcoreapp2.1\02. Division.deps.json
+C:\Users\Predator\source\repos\ForCycles\ConsoleApp1\bin\Debug\netcoreapp2.1\02. Division.runtimeconfig.json
+C:\Users\Predator\source\repos\ForCycles\ConsoleApp1\bin\Debug\netcoreapp2.1\02. Division.runtimeconfig.dev.json
+C:\Users\Predator\source\repos\ForCycles\ConsoleApp1\bin\Debug\netcoreapp2.1\02. Division.dll
+C:\Users\Predator\source\repos\ForCycles\ConsoleApp1\bin\Debug\netcoreapp2.1\02. Division.pdb
+C:\Users\Predator\source\repos\ForCycles\ConsoleApp1\obj\Debug\netcoreapp2.1\02. Division.csprojAssemblyReference.cache
+C:\Users\Predator\source\repos\ForCycles\ConsoleApp1\obj\Debug\netcoreapp2.1\02. Division.csproj.CoreCompileInputs.cache
+C:\Users\Predator\source\repos\ForCycles\ConsoleApp1\obj\Debug\netcoreapp2.1\02. Division.AssemblyInfoInputs.cache
+C:\Users\Predator\source\repos\ForCycles\ConsoleApp1\obj\Debug\netcoreapp2.1\02. Division.AssemblyInfo.cs
+C:\Users\Predator\source\repos\ForCycles\ConsoleApp1\obj\Debug\netcoreapp2.1\02. Division.dll
+C:\Users\Predator\source\repos\ForCycles\ConsoleApp1\obj\Debug\netcoreapp2.1\02. Division.pdb
