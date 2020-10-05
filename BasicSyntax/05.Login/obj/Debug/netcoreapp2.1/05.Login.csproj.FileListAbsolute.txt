@@ -8,3 +8,9 @@ C:\Users\Predator\source\repos\ForCycles\05.Login\obj\Debug\netcoreapp2.1\05.Log
 C:\Users\Predator\source\repos\ForCycles\05.Login\obj\Debug\netcoreapp2.1\05.Login.AssemblyInfo.cs
 C:\Users\Predator\source\repos\ForCycles\05.Login\obj\Debug\netcoreapp2.1\05.Login.dll
 C:\Users\Predator\source\repos\ForCycles\05.Login\obj\Debug\netcoreapp2.1\05.Login.pdb
+C:\Users\Predator\Documents\GitHub\SoftUNi\BasicSyntax\05.Login\obj\Debug\netcoreapp2.1\05.Login.csprojAssemblyReference.cache
+C:\Users\Predator\Documents\GitHub\SoftUNi\BasicSyntax\05.Login\obj\Debug\netcoreapp2.1\05.Login.csproj.CoreCompileInputs.cache
+C:\Users\Predator\Documents\GitHub\SoftUNi\BasicSyntax\05.Login\obj\Debug\netcoreapp2.1\05.Login.AssemblyInfoInputs.cache
+C:\Users\Predator\Documents\GitHub\SoftUNi\BasicSyntax\05.Login\obj\Debug\netcoreapp2.1\05.Login.AssemblyInfo.cs
+C:\Users\Predator\Documents\GitHub\SoftUNi\BasicSyntax\05.Login\obj\Debug\netcoreapp2.1\05.Login.dll
+C:\Users\Predator\Documents\GitHub\SoftUNi\BasicSyntax\05.Login\obj\Debug\netcoreapp2.1\05.Login.pdb

@@ -1,0 +1,11 @@
+C:\Users\Predator\Documents\GitHub\SoftUNi\BasicSyntax\05.Login\09.PadawanEquipment\bin\Debug\netcoreapp2.1\09.PadawanEquipment.deps.json
+C:\Users\Predator\Documents\GitHub\SoftUNi\BasicSyntax\05.Login\09.PadawanEquipment\bin\Debug\netcoreapp2.1\09.PadawanEquipment.runtimeconfig.json
+C:\Users\Predator\Documents\GitHub\SoftUNi\BasicSyntax\05.Login\09.PadawanEquipment\bin\Debug\netcoreapp2.1\09.PadawanEquipment.runtimeconfig.dev.json
+C:\Users\Predator\Documents\GitHub\SoftUNi\BasicSyntax\05.Login\09.PadawanEquipment\bin\Debug\netcoreapp2.1\09.PadawanEquipment.dll
+C:\Users\Predator\Documents\GitHub\SoftUNi\BasicSyntax\05.Login\09.PadawanEquipment\bin\Debug\netcoreapp2.1\09.PadawanEquipment.pdb
+C:\Users\Predator\Documents\GitHub\SoftUNi\BasicSyntax\05.Login\09.PadawanEquipment\obj\Debug\netcoreapp2.1\09.PadawanEquipment.csprojAssemblyReference.cache
+C:\Users\Predator\Documents\GitHub\SoftUNi\BasicSyntax\05.Login\09.PadawanEquipment\obj\Debug\netcoreapp2.1\09.PadawanEquipment.csproj.CoreCompileInputs.cache
+C:\Users\Predator\Documents\GitHub\SoftUNi\BasicSyntax\05.Login\09.PadawanEquipment\obj\Debug\netcoreapp2.1\09.PadawanEquipment.AssemblyInfoInputs.cache
+C:\Users\Predator\Documents\GitHub\SoftUNi\BasicSyntax\05.Login\09.PadawanEquipment\obj\Debug\netcoreapp2.1\09.PadawanEquipment.AssemblyInfo.cs
+C:\Users\Predator\Documents\GitHub\SoftUNi\BasicSyntax\05.Login\09.PadawanEquipment\obj\Debug\netcoreapp2.1\09.PadawanEquipment.dll
+C:\Users\Predator\Documents\GitHub\SoftUNi\BasicSyntax\05.Login\09.PadawanEquipment\obj\Debug\netcoreapp2.1\09.PadawanEquipment.pdb

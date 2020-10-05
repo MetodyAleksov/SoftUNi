@@ -1,0 +1,7 @@
+C:\Users\Predator\Documents\GitHub\SoftUNi\BasicSyntax\10.Раге\bin\Debug\10.Раге.exe.config
+C:\Users\Predator\Documents\GitHub\SoftUNi\BasicSyntax\10.Раге\bin\Debug\10.Раге.exe
+C:\Users\Predator\Documents\GitHub\SoftUNi\BasicSyntax\10.Раге\bin\Debug\10.Раге.pdb
+C:\Users\Predator\Documents\GitHub\SoftUNi\BasicSyntax\10.Раге\obj\Debug\10.Раге.csprojAssemblyReference.cache
+C:\Users\Predator\Documents\GitHub\SoftUNi\BasicSyntax\10.Раге\obj\Debug\10.Раге.csproj.CoreCompileInputs.cache
+C:\Users\Predator\Documents\GitHub\SoftUNi\BasicSyntax\10.Раге\obj\Debug\10.Раге.exe
+C:\Users\Predator\Documents\GitHub\SoftUNi\BasicSyntax\10.Раге\obj\Debug\10.Раге.pdb

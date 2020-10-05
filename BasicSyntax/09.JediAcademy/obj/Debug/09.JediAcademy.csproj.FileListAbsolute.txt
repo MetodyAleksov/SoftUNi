@@ -1,0 +1,7 @@
+C:\Users\Predator\Documents\GitHub\SoftUNi\BasicSyntax\09.JediAcademy\bin\Debug\09.JediAcademy.exe.config
+C:\Users\Predator\Documents\GitHub\SoftUNi\BasicSyntax\09.JediAcademy\bin\Debug\09.JediAcademy.exe
+C:\Users\Predator\Documents\GitHub\SoftUNi\BasicSyntax\09.JediAcademy\bin\Debug\09.JediAcademy.pdb
+C:\Users\Predator\Documents\GitHub\SoftUNi\BasicSyntax\09.JediAcademy\obj\Debug\09.JediAcademy.csprojAssemblyReference.cache
+C:\Users\Predator\Documents\GitHub\SoftUNi\BasicSyntax\09.JediAcademy\obj\Debug\09.JediAcademy.csproj.CoreCompileInputs.cache
+C:\Users\Predator\Documents\GitHub\SoftUNi\BasicSyntax\09.JediAcademy\obj\Debug\09.JediAcademy.exe
+C:\Users\Predator\Documents\GitHub\SoftUNi\BasicSyntax\09.JediAcademy\obj\Debug\09.JediAcademy.pdb

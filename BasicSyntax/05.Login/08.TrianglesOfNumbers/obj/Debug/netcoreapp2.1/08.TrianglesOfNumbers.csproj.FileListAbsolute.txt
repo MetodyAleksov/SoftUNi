@@ -1,0 +1,10 @@
+C:\Users\Predator\Documents\GitHub\SoftUNi\BasicSyntax\05.Login\08.TrianglesOfNumbers\bin\Debug\netcoreapp2.1\08.TrianglesOfNumbers.deps.json
+C:\Users\Predator\Documents\GitHub\SoftUNi\BasicSyntax\05.Login\08.TrianglesOfNumbers\bin\Debug\netcoreapp2.1\08.TrianglesOfNumbers.runtimeconfig.json
+C:\Users\Predator\Documents\GitHub\SoftUNi\BasicSyntax\05.Login\08.TrianglesOfNumbers\bin\Debug\netcoreapp2.1\08.TrianglesOfNumbers.runtimeconfig.dev.json
+C:\Users\Predator\Documents\GitHub\SoftUNi\BasicSyntax\05.Login\08.TrianglesOfNumbers\bin\Debug\netcoreapp2.1\08.TrianglesOfNumbers.dll
+C:\Users\Predator\Documents\GitHub\SoftUNi\BasicSyntax\05.Login\08.TrianglesOfNumbers\bin\Debug\netcoreapp2.1\08.TrianglesOfNumbers.pdb
+C:\Users\Predator\Documents\GitHub\SoftUNi\BasicSyntax\05.Login\08.TrianglesOfNumbers\obj\Debug\netcoreapp2.1\08.TrianglesOfNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Predator\Documents\GitHub\SoftUNi\BasicSyntax\05.Login\08.TrianglesOfNumbers\obj\Debug\netcoreapp2.1\08.TrianglesOfNumbers.AssemblyInfoInputs.cache
+C:\Users\Predator\Documents\GitHub\SoftUNi\BasicSyntax\05.Login\08.TrianglesOfNumbers\obj\Debug\netcoreapp2.1\08.TrianglesOfNumbers.AssemblyInfo.cs
+C:\Users\Predator\Documents\GitHub\SoftUNi\BasicSyntax\05.Login\08.TrianglesOfNumbers\obj\Debug\netcoreapp2.1\08.TrianglesOfNumbers.dll
+C:\Users\Predator\Documents\GitHub\SoftUNi\BasicSyntax\05.Login\08.TrianglesOfNumbers\obj\Debug\netcoreapp2.1\08.TrianglesOfNumbers.pdb
